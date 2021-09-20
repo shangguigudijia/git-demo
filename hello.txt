@@ -1,6 +1,10 @@
+
 hello boy
 git remote -v 
 git add 
 git commit
 git status
+
 111111111
+你是迪迦奥特曼吗
+我是呀
